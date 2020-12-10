@@ -1,0 +1,15 @@
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.exe
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.deps.json
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.runtimeconfig.json
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.runtimeconfig.dev.json
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.dll
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\OverloadPhotoFB.pdb
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.csprojAssemblyReference.cache
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.AssemblyInfoInputs.cache
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.AssemblyInfo.cs
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.csproj.CoreCompileInputs.cache
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.csproj.CopyComplete
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.dll
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.pdb
+C:\Users\remsk\source\repos\OverloadPhotoFB\OverloadPhotoFB\obj\Debug\netcoreapp3.1\OverloadPhotoFB.genruntimeconfig.cache

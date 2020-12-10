@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/ucnwCGEB4o8VcjY2ERiyVLxiuT9oYlYGuO6EMmoSQjY/XJxF8dxRnD9A4JRXgaPrJBpFlMTwivoiM4ddrLrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\remsk\\source\\repos\\OverloadPhotoFB\\OverloadPhotoFB\\OverloadPhotoFB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\remsk\\.nuget\\packages\\sixlabors.imagesharp\\1.0.2\\sixlabors.imagesharp.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
